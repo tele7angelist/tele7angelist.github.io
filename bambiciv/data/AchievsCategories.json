@@ -1,0 +1,137 @@
+[
+	{
+		"id": 1,
+		"img": "",
+		"menuImg": "",
+		"lockedAchievImg": "",
+		"secretAchievImg": "",
+		"name": "All",
+		"sceneName": "All Achievements",
+		"globalCategory": true,
+		"autoColor": {
+			"color": "",
+			"category": true,
+			"scene": true,
+			"achievs": true,
+			"popUpDesc": true,
+			"popUpAchiev": true,
+			"popUpBorders": true
+		},
+		"Trophy": {
+			"id": 1,
+			"img": "all",
+			"lockedImg": "all_locked",
+			"description": "Congrats! You are utterly insane and I love you!\n",
+			"hidden": false,
+			"onUnlock": ""
+		}
+	},
+	{
+		"id": 2,
+		"img": "",
+		"menuImg": "",
+		"lockedAchievImg": "",
+		"secretAchievImg": "",
+		"name": "Time",
+		"sceneName": "Long Achievements",
+		"globalCategory": false,
+		"autoColor": {
+			"color": "",
+			"category": true,
+			"scene": true,
+			"achievs": true,
+			"popUpDesc": true,
+			"popUpAchiev": true,
+			"popUpBorders": true
+		},
+		"Trophy": {
+			"id": 2,
+			"img": "time",
+			"lockedImg": "time_locked",
+			"description": "You must've wasted a LOT of time trying to get these.\nGood job!",
+			"hidden": false,
+			"onUnlock": ""
+		}
+	},
+	{
+		"id": 3,
+		"img": "",
+		"menuImg": "",
+		"lockedAchievImg": "",
+		"secretAchievImg": "",
+		"name": "Fun",
+		"sceneName": "Fun Achievements",
+		"globalCategory": false,
+		"autoColor": {
+			"color": "",
+			"category": true,
+			"scene": true,
+			"achievs": true,
+			"popUpDesc": false,
+			"popUpAchiev": false,
+			"popUpBorders": false
+		},
+		"Trophy": {
+			"id": 3,
+			"img": "fun",
+			"lockedImg": "fun_locked",
+			"description": "You certainly are quite a goofy one!",
+			"hidden": false,
+			"onUnlock": ""
+		}
+	},
+	{
+		"id": 4,
+		"img": "",
+		"menuImg": "",
+		"lockedAchievImg": "",
+		"secretAchievImg": "",
+		"name": "Battle",
+		"sceneName": "Battle Achievements",
+		"globalCategory": false,
+		"autoColor": {
+			"color": "",
+			"category": true,
+			"scene": true,
+			"achievs": true,
+			"popUpDesc": false,
+			"popUpAchiev": false,
+			"popUpBorders": false
+		},
+		"Trophy": {
+			"id": 4,
+			"img": "battle",
+			"lockedImg": "battle_locked",
+			"description": "You are the toughest of the tough.",
+			"hidden": false,
+			"onUnlock": ""
+		}
+	},
+	{
+		"id": 5,
+		"img": "",
+		"menuImg": "",
+		"lockedAchievImg": "",
+		"secretAchievImg": "",
+		"name": "Advanced",
+		"sceneName": "Advanced Achievements",
+		"globalCategory": false,
+		"autoColor": {
+			"color": "",
+			"category": true,
+			"scene": true,
+			"achievs": true,
+			"popUpDesc": false,
+			"popUpAchiev": false,
+			"popUpBorders": false
+		},
+		"Trophy": {
+			"id": 5,
+			"img": "advanced",
+			"lockedImg": "advanced_locked",
+			"description": "Big brain time. Yeah.",
+			"hidden": false,
+			"onUnlock": ""
+		}
+	}
+]
