@@ -9,8 +9,5 @@
         "height": 624,
         "icon": "icon/icon.png"
     },
-    "chromium-args": "--force-color-profile=srgb",
-    "dependencies": {
-        "node-static": "^0.7.11"
-    }
+	"chromium-args" : "--force-color-profile=srgb"
 }
